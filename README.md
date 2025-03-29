@@ -19,7 +19,14 @@ modified: README.md
 no changes added to commit (use "git add" and/or "git commit -a")
 
 ```
+
 </details>
 
-git commit -m 'First commit'
+<details> <summary>First commit</summary>
+```git
+git add .  && git commit -am "HW-devops-netology"
+[main 1304a10] HW-devops-netology
+ 1 file changed, 25 insertions(+), 1 deletion(-)
 ```
+
+ </details>
