@@ -95,6 +95,7 @@ tmp*
 ### Эксперимент с удалением и перемещением файлов (третий и четвёртый коммит)
 
 <details> <summary>git log</summary>
+
 ```git
 commit 1dc077e6e35e13325927e3c4177328c7a4cd7374 (HEAD -> main, origin/main, origin/HEAD)
 Author: biparasite <biparasite@gmail.com>
@@ -141,4 +142,3 @@ Date: Sat Mar 29 12:51:31 2025 +0300
 ```
 
  </details>
-```
