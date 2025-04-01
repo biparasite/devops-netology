@@ -81,8 +81,14 @@ origin	https://github.com/biparasite/devops-netology.git (push)
 
 Попробуйте выполнить пару коммитов, используя IDE.
 
-
-
 ### Ответ
 
 Использовал VSCODE
+
+Два коммита
+
+<details> <summary>git commit</summary>
+
+![git commit](https://github.com/biparasite/devops-netology/blob/main/git_commit.png "git commit")
+
+</details>
